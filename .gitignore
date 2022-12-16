@@ -1,0 +1,158 @@
+# Android Studio
+.idea
+*.iml
+*.hprof
+
+# Gradle
+.gradle
+android/app/release/app-release.aab
+android/app/release/app-release.apk
+android/app/release/output.json
+android/app/src/main/res/raw/package.json
+android/app/src/main/res/raw/src_assets_i18n_translations.json
+android/app/src/main/assets/index.android.bundle
+build/
+local.properties
+
+coverage
+
+# test reports
+test-report.html
+
+# Buck
+buck-out/
+\.buckd/
+# *.keystore
+!debug.keystore
+
+# Bundle artifact
+*.jsbundle
+
+# Custom
+.expo
+.hprof
+.vscode
+*.log*
+*.bat
+
+# Chrome
+chrome-user-data
+
+# Fastlane
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+ios/build
+ios/archive
+ios/fastlane/report.xml
+
+# ESLint
+.eslintrc.json
+
+# Jest
+#__mocks__
+#__tests__
+
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+yarn.lock
+
+# OSX
+.DS_Store
+
+# React Native crap
+android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_elements_src_assets_backicon.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backicon.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_elements_src_assets_backiconmask.png
+android/app/src/main/res/drawable-hdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png
+android/app/src/main/res/drawable-hdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnativemoderndatepicker_src_assets_arrow.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_src_images_airbnbstar.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_src_images_airbnbstarselected.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_src_images_bell.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_src_images_heart.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_src_images_rocket.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnativeratings_src_images_star.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_stack_src_views_assets_backiconmask.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png
+android/app/src/main/res/drawable-mdpi/node_modules_reactnavigationstack_lib_module_views_assets_backiconmask.png
+android/app/src/main/res/drawable-mdpi/src_assets_images_en_flag.png
+android/app/src/main/res/drawable-mdpi/src_assets_images_es_flag.png
+android/app/src/main/res/drawable-mdpi/src_assets_images_force_update_background.jpg
+android/app/src/main/res/drawable-mdpi/src_assets_images_it_flag.png
+android/app/src/main/res/drawable-mdpi/src_assets_images_login_background_1.jpg
+android/app/src/main/res/drawable-mdpi/src_assets_images_login_background_2.jpg
+android/app/src/main/res/drawable-mdpi/src_assets_images_login_background_3.jpg
+android/app/src/main/res/drawable-mdpi/src_assets_images_login_background_4.jpg
+android/app/src/main/res/drawable-mdpi/src_assets_images_login_background_5.jpg
+android/app/src/main/res/drawable-mdpi/src_assets_images_login_background.png
+android/app/src/main/res/drawable-mdpi/src_assets_images_logo.png
+android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png
+android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png
+android/app/src/main/res/drawable-xhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png
+android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png
+android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png
+android/app/src/main/res/drawable-xxhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png
+android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_elements_src_assets_backicon.png
+android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_stack_src_views_assets_backicon.png
+android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigationstack_lib_module_views_assets_backicon.png
+android/app/src/main/res/raw/node_modules_cssselect_lib_procedure.json
+android/app/src/main/res/raw/node_modules_csstree_dist_defaultsyntax.json
+android/app/src/main/res/raw/node_modules_domserializer_foreignnames.json
+android/app/src/main/res/raw/node_modules_entities_lib_maps_decode.json
+android/app/src/main/res/raw/node_modules_entities_lib_maps_entities.json
+android/app/src/main/res/raw/node_modules_entities_lib_maps_legacy.json
+android/app/src/main/res/raw/node_modules_entities_lib_maps_xml.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_antdesign.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_entypo.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_evilicons.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_feather.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_fontawesome.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_foundation.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_ionicons.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialcommunityicons.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_materialicons.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_octicons.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_simplelineicons.json
+android/app/src/main/res/raw/node_modules_reactnativevectoricons_glyphmaps_zocial.json
+android/app/src/main/res/raw/src_assets_i18n_translations.json
+
+# Ruby / CocoaPods
+/ios/Pods/
+/vendor/bundle/
+
+# SonarQube
+.scannerwork/report-task.txt
+sonar-project.properties
+src/.scannerwork/
+
+# Snyk
+.snyk
+
+# Windows
+desktop.ini
+
+# Xcode
+*.hmap
+*.ipa
+*.mode1v3
+*.mode2v3
+*.moved-aside
+*.pbxuser
+*.perspectivev3
+*.xccheckout
+*.xcuserstate
+!default.mode1v3
+!default.mode2v3
+!default.pbxuser
+!default.perspectivev3
+build/
+DerivedData
+xcuserdata
+
+# Environment Variables
+.env
